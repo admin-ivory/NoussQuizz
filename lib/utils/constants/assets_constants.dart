@@ -25,7 +25,7 @@ abstract class Assets {
   static const rewardMenuIcon = '$_image/reword_icon.svg';
   static const scratchCardCover = '$_image/scratchCardCover.png';
   static const shareMenuIcon = '$_image/share_icon.svg';
-  static const appLogo = '$_image/nousslogo.png';
+  static const appLogo = '$_image/AfroQuiz_logo.png';
   static const splashLogo = '$_image/nousslogo.png';
   static const statisticsMenuIcon = '$_image/statistics_icon.svg';
   static const termsAndCondIcon = '$_image/termscond_icon.svg';
